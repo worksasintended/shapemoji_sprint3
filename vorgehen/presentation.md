@@ -109,6 +109,11 @@ Shapemoji
         - Agenda
         - Protokoll
 
+--
+
+## Open Project
+
+![](img/method/OpenProject_stand.png)
 
 --
 
@@ -118,6 +123,17 @@ Shapemoji
 --
 
 ## Tasks
+- Zugewiesen an 
+- Verantwortlichkeit definiert
+- Start- und Enddatum definiert (für Gantt-Diagramm)
+- Priorität
+- Hierarchisierung
+
+--
+
+## Gantt Diagramm
+
+<a href="img/method/gantt.png"><img src="img/method/gantt.png" width="780" height="440"></a>
 
 --
 
@@ -309,11 +325,8 @@ Shapemoji
 
 --
 
-<iframe allowfullscreen="true" src="https://www.easyzoom.com/embed/8043f042204949889e3122acdeb82fea" width="150" height="600">
-
-![](img/method/git_branches.PNG)
-</iframe>
-<!-- TODO resize image></!-->
+## Git Branches
+<a href="img/method/git_branches.PNG"><img src="img/method/git_branches.png" width="50" height="500"></a>
 --
 
 ## Technischer Prototyp
