@@ -123,8 +123,7 @@ Shapemoji
 
 ## Wiki
 
-- Werkzeug zur Dokumentation
-<div style="width:80%;margin-left: auto;margin-right: auto;">
+<div style="width:60%;margin-left: auto;margin-right: auto;">
 
 ![](img/method/OpenProject_Wiki.PNG)
 </div>
@@ -211,7 +210,7 @@ Shapemoji
 - Gesamtsumme bei ca. 6000 - 7000€
 ---
 
-## Design
+# Design
 
 --
 
@@ -267,7 +266,7 @@ Shapemoji
 
 ## Spielmodi
 2 gegen 1
-<div style="width:80%;margin-left: auto;margin-right: auto;">
+<div style="width:70%;margin-left: auto;margin-right: auto;">
 
 ![](img/method/Spiel_2vs1.PNG)
 </div>
