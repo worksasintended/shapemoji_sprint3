@@ -310,7 +310,10 @@ Shapemoji
 
 --
 
+<iframe allowfullscreen="true" src="https://www.easyzoom.com/embed/8043f042204949889e3122acdeb82fea" width="150" height="600">
+
 ![](img/method/git_branches.PNG)
+</iframe>
 <!-- TODO resize image></!-->
 --
 
