@@ -259,6 +259,14 @@ Shapemoji
 
 ## Objektdesigns
 
+![](img/method/ObjektDesign.png)
+
+--
+
+## Objektdesigns - Emojis
+
+![](img/method/ObjektDesign2.png)
+
 --
 
 ## User Story Map
