@@ -109,6 +109,11 @@ Shapemoji
         - Agenda
         - Protokoll
 
+--
+
+## Open Project
+
+![](img/method/OpenProject_stand.png)
 
 --
 
@@ -118,13 +123,23 @@ Shapemoji
 --
 
 ## Tasks
+- Zugewiesen an 
+- Verantwortlichkeit definiert
+- Start- und Enddatum definiert (für Gantt-Diagramm)
+- Priorität
+- Hierarchisierung
+
+--
+
+## Gantt Diagramm
+
+<a href="img/method/gantt.png"><img src="img/method/gantt.png" width="780" height="440"></a>
 
 --
 
 ## Wiki
 
-- Werkzeug zur Dokumentation
-<div style="width:80%;margin-left: auto;margin-right: auto;">
+<div style="width:60%;margin-left: auto;margin-right: auto;">
 
 ![](img/method/OpenProject_Wiki.PNG)
 </div>
@@ -211,7 +226,7 @@ Shapemoji
 - Gesamtsumme bei ca. 6000 - 7000€
 ---
 
-## Design
+# Design
 
 --
 
@@ -244,6 +259,14 @@ Shapemoji
 
 ## Objektdesigns
 
+![](img/method/ObjektDesign.png)
+
+--
+
+## Objektdesigns - Emojis
+
+![](img/method/ObjektDesign2.png)
+
 --
 
 ## User Story Map
@@ -267,7 +290,7 @@ Shapemoji
 
 ## Spielmodi
 2 gegen 1
-<div style="width:80%;margin-left: auto;margin-right: auto;">
+<div style="width:70%;margin-left: auto;margin-right: auto;">
 
 ![](img/method/Spiel_2vs1.PNG)
 </div>
@@ -310,11 +333,8 @@ Shapemoji
 
 --
 
-<iframe allowfullscreen="true" src="https://www.easyzoom.com/embed/8043f042204949889e3122acdeb82fea" width="150" height="600">
-
-![](img/method/git_branches.PNG)
-</iframe>
-<!-- TODO resize image></!-->
+## Git Branches
+<a href="img/method/git_branches.PNG"><img src="img/method/git_branches.png" width="50" height="500"></a>
 --
 
 ## Technischer Prototyp
